@@ -1,7 +1,8 @@
+# HELLO WORLD 🌏👋
 
-![Screenshot_20260406_152422_Instagram](https://github.com/user-attachments/assets/8632ac4e-9853-4c54-8f9e-7a039648b6a8)
+<img width="1000" height="300" alt="Nattakrit Siripap_20260407_023506_0000" src="https://github.com/user-attachments/assets/1281d908-fefb-4050-bbdf-5c1c0afbf202" />
 
-# 💫 About Me:
+
 I'm a senior at RMUTT who is interested in web apps and AI stuffs. I'm looking for internships in software engineer trainee. 
 
 
