@@ -1,3 +1,6 @@
+
+![Screenshot_20260406_152422_Instagram](https://github.com/user-attachments/assets/8632ac4e-9853-4c54-8f9e-7a039648b6a8)
+
 # 💫 About Me:
 I'm a senior at RMUTT who is interested in web apps and AI stuffs. I'm looking for internships in software engineer trainee. 
 
